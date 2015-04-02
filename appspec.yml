@@ -5,6 +5,6 @@ files:
      destination: /home/ubuntu/MileStone3_App
  
 hooks:
-     AfterInstall:
+	AfterInstall:
 	- location: script.sh
-             runas: root  
+          runas: root  
