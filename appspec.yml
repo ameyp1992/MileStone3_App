@@ -1,0 +1,21 @@
+version: 0.0
+os: linux
+files:
+   - source: 
+     destination: 
+permissions:
+   - object: 
+     pattern:
+     owner:
+     group: 
+     mode: 
+     type:
+       - 
+hooks:
+   BeforeInstall:
+    - location: 
+      runas: 
+   
+   AfterInstall:
+    - location: 
+      runas: 
