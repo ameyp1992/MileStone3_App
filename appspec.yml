@@ -1,15 +1,7 @@
 version: 0.0
 os: linux
 files:
-   - source: 
+   - source: / 
      destination: 
-permissions:
-   - object: 
-     pattern:
-     owner:
-     group: 
-     mode: 
-     type:
-       - 
 hooks:
   
