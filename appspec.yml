@@ -12,10 +12,4 @@ permissions:
      type:
        - 
 hooks:
-   BeforeInstall:
-    - location: 
-      runas: 
-   
-   AfterInstall:
-    - location: 
-      runas: 
+  
